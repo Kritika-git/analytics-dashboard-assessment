@@ -1,0 +1,10 @@
+[
+  {
+    "type":"Battery Electric Vehicle (BEV)",
+    "count":39461
+  },
+  {
+    "type":"Plug-in Hybrid Electric Vehicle (PHEV)",
+    "count":10539
+  }
+]

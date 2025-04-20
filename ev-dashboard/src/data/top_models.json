@@ -1,0 +1,42 @@
+[
+  {
+    "make_model":"TESLA MODEL Y",
+    "count":10389
+  },
+  {
+    "make_model":"TESLA MODEL 3",
+    "count":8808
+  },
+  {
+    "make_model":"NISSAN LEAF",
+    "count":3770
+  },
+  {
+    "make_model":"TESLA MODEL S",
+    "count":2150
+  },
+  {
+    "make_model":"CHEVROLET BOLT EV",
+    "count":1828
+  },
+  {
+    "make_model":"TESLA MODEL X",
+    "count":1765
+  },
+  {
+    "make_model":"JEEP WRANGLER",
+    "count":1171
+  },
+  {
+    "make_model":"CHEVROLET VOLT",
+    "count":1085
+  },
+  {
+    "make_model":"VOLKSWAGEN ID.4",
+    "count":1007
+  },
+  {
+    "make_model":"CHRYSLER PACIFICA",
+    "count":908
+  }
+]
